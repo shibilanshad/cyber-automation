@@ -7,7 +7,7 @@ This is a simple python script to monitor your websites.
 ``` bash
 git clone https://github.com/shibilanshad/cyber-automation.git
 
-cd cyber-automation/website-monitoring
+cd cyber-automation/'Website Monitoring'
 
 pip install -r requirements.txt
 
